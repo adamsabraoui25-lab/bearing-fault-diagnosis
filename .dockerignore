@@ -1,0 +1,8 @@
+data/*.mat
+data/*.npy
+mlruns
+results
+__pycache__
+*.pyc
+.git
+.venv
